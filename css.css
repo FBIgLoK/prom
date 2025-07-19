@@ -228,7 +228,7 @@ ul {
 }
 .example-2 .icon-content a[data-social="discord"] .filled,
 .example-2 .icon-content a[data-social="discord"] ~ .tooltip {
-  background-color: #7289da;
+  background-color: #000000;
 }
 .example-2 .icon-content a[data-social="steam"] .filled,
 .example-2 .icon-content a[data-social="steam"] ~ .tooltip {
